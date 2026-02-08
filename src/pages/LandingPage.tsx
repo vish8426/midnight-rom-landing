@@ -1,4 +1,3 @@
-import { useNavigate } from 'react-router-dom'
 import { ShaderGradientCanvas, ShaderGradient } from '@shadergradient/react'
 import Stars from '../components/Stars'
 import RansomizerText from '../components/Ransomizer'
@@ -6,7 +5,7 @@ import '../App.css'
 
 function LandingPage() {
   const handleEnterClick = () => {
-    // Redirect to your Framer site
+    // Redirect to Framer Site
     window.location.href = 'https://your-framer-site.framer.app'
   }
 
