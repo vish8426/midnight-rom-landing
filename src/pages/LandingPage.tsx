@@ -6,7 +6,7 @@ import '../App.css'
 function LandingPage() {
   const handleEnterClick = () => {
     // Redirect to Framer Site
-    window.location.href = 'https://your-framer-site.framer.app'
+    window.location.href = 'https://joyous-changes-456289.framer.app/'
   }
 
   return (
