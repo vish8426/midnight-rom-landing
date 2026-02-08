@@ -1,0 +1,49 @@
+.animated-icon {
+  position: relative;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    filter: brightness(1) hue-rotate(0deg);
+  }
+  50% {
+    filter: brightness(1.5) hue-rotate(30deg);
+  }
+}
+
+.animated-icon.circle {
+  background: linear-gradient(45deg, #ff006e, #8338ec);
+  border-radius: 50%;
+  animation: spin 3s linear infinite;
+}
+
+.animated-icon.square {
+  background: linear-gradient(135deg, #06ffa5, #4361ee);
+  border-radius: 10px;
+  animation: rotate-3d 4s ease-in-out infinite;
+}
+
+.animated-icon.triangle {
+  width: 0;
+  height: 0;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  border-bottom: 45px solid #ff006e;
+  animation: float 2s ease-in-out infinite;
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@keyframes rotate-3d {
+  0%, 100% { transform: rotateY(0deg); }
+  50% { transform: rotateY(180deg); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}

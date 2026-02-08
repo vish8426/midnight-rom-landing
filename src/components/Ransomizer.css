@@ -1,0 +1,101 @@
+#ransomizer-ggn6ycg0 {
+  --global-font-size: 80px;
+  --global-text-align: center;
+}
+
+#ransomizer-ggn6ycg0 .ts, 
+#ransomizer-ggn6ycg0 .tw, 
+#ransomizer-ggn6ycg0 .tc {
+  display: inline-block;
+}
+
+#ransomizer-ggn6ycg0 .ts {
+  line-height: normal;
+  word-spacing: 0.7em;
+}
+
+#ransomizer-ggn6ycg0 .ts .tw .tc div::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.tc.mlvx-0 div::before { background-image: url(https://www.ransomizer.com/img/texture/IcV8Q3G.png); background-position: right bottom }
+.tc.mlvx-0 div { background-color: #3C3B6E; color: #ffffff; font-family: 'Courier Prime', serif; rotate: 1deg; top: -0.04em; clip-path: polygon(1% 0,93% 3%,100% 8%,99% 100%,0 97%,0 79%); font-size: 100%; padding: 0.2em; text-shadow: -0.03em 0.03em #1a1a1a; -webkit-text-stroke: 0.09em #1a1a1a; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-1 { filter: drop-shadow(1px -1px 1px #666) }
+.tc.mlvx-1 div::before { background-image: url(https://www.ransomizer.com/img/texture/jIHCf3i.png); background-position: left bottom }
+.tc.mlvx-1 div { background-color: #ffffff; color: #4d4d4d; font-family: 'Germania One', serif; rotate: 1deg; top: 0.03em; clip-path: polygon(6% 7%,96% 1%,100% 28%,97% 100%,0 97%,0 54%); font-size: 100%; font-weight: lighter; text-transform: lowercase; padding: 0.1em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-2 { filter: drop-shadow(-1px -1px 1px #666) }
+.tc.mlvx-2 div::before { background-image: url(https://www.ransomizer.com/img/texture/E5z77Fj.png); background-position: left center }
+.tc.mlvx-2 div { background-color: #FFD700; color: #000000; font-family: 'Rye', serif; rotate: 1deg; top: -0.04em; clip-path: polygon(2% 0,96% 7%,100% 75%,100% 98%,0 98%,0 32%); font-size: 100%; font-weight: lighter; text-transform: uppercase; padding: 0.2em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-3 { filter: drop-shadow(1px -1px 1px #666) }
+.tc.mlvx-3 div::before { background-image: url(https://www.ransomizer.com/img/texture/Tg0fOcU.png); background-position: left bottom }
+.tc.mlvx-3 div { background-color: #ffffff; color: #4d4d4d; font-family: 'Abril Fatface', serif; rotate: 2deg; top: -0.02em; clip-path: polygon(0 2%,95% 1%,100% 48%,97% 95%,0 94%,0 36%); font-size: 110%; font-weight: bold; text-transform: uppercase; padding: 0.2em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-4 { filter: drop-shadow(1px -1px 1px #666) }
+.tc.mlvx-4 div::before { background-image: url(https://www.ransomizer.com/img/texture/nIRJZjA.png); background-position: center bottom }
+.tc.mlvx-4 div { background-color: #B22234; color: #ffffff; font-family: 'Cabin', serif; rotate: -2deg; top: -0.03em; clip-path: polygon(2% 7%,100% 0,100% 2%,95% 94%,7% 100%,0 83%); font-size: 110%; font-weight: bold; text-transform: lowercase; padding: 0.1em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-5 { filter: drop-shadow(-1px 1px 1px #666) }
+.tc.mlvx-5 div::before { background-image: url(https://www.ransomizer.com/img/texture/E5z77Fj.png); background-position: right center }
+.tc.mlvx-5 div { background-color: #3C3B6E; color: #ffffff; font-family: 'Crimson Pro', serif; rotate: 1deg; top: 0.03em; clip-path: polygon(7% 4%,98% 0,100% 60%,96% 97%,7% 100%,0 76%); font-size: 110%; text-transform: uppercase; padding: 0.1em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-6 div::before { background-image: url(https://www.ransomizer.com/img/texture/1wxqouY.png); background-position: right top }
+.tc.mlvx-6 div { background-color: #3C3B6E; color: #ffffff; font-family: 'Rubik', serif; rotate: 1deg; top: -0.03em; clip-path: polygon(4% 2%,98% 5%,100% 28%,97% 100%,3% 95%,0 66%); font-size: 110%; font-weight: bolder; text-transform: uppercase; padding: 0.2em; text-shadow: 0.03em 0.03em #ffffff; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-7 div::before { background-image: url(https://www.ransomizer.com/img/texture/Tg0fOcU.png); background-position: right bottom }
+.tc.mlvx-7 div { background-color: #3C3B6E; color: #ffffff; font-family: 'Rye', serif; rotate: 2deg; top: -0.04em; clip-path: polygon(0 0,93% 6%,100% 94%,97% 93%,2% 98%,0 67%); font-size: 100%; padding: 0.1em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-9 { filter: drop-shadow(-1px 1px 1px #666) }
+.tc.mlvx-9 div::before { background-image: url(https://www.ransomizer.com/img/texture/h2wsr9q.png); background-position: right bottom }
+.tc.mlvx-9 div { background-color: #ffffff; color: #4d4d4d; font-family: 'Crimson Pro', serif; rotate: 0deg; top: -0.01em; clip-path: polygon(4% 0,100% 0,100% 83%,96% 95%,4% 96%,0 45%); font-size: 110%; font-weight: lighter; text-transform: uppercase; padding: 0.1em; text-shadow: -0.03em -0.03em #ffffff; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-10 { filter: drop-shadow(1px -1px 1px #666) }
+.tc.mlvx-10 div::before { background-image: url(https://www.ransomizer.com/img/texture/56UD0sh.png); background-position: left top }
+.tc.mlvx-10 div { background-color: #3C3B6E; color: #ffffff; font-family: 'Crimson Pro', serif; rotate: -3deg; top: 0.04em; clip-path: polygon(4% 4%,97% 5%,100% 29%,98% 96%,4% 93%,0 88%); font-size: 110%; font-weight: bolder; text-transform: lowercase; padding: 0.1em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+.tc.mlvx-11 { filter: drop-shadow(-1px -1px 1px #666) }
+.tc.mlvx-11 div::before { background-image: url(https://www.ransomizer.com/img/texture/EXlM455.png); background-position: center top }
+.tc.mlvx-11 div { background-color: #B22234; color: #ffffff; font-family: 'Rye', serif; rotate: -2deg; top: 0.01em; clip-path: polygon(6% 4%,93% 7%,100% 73%,96% 97%,7% 95%,0 42%); font-size: 110%; font-weight: bold; padding: 0.2em; paint-order: stroke fill; line-height: 75%; position: relative; }
+
+/* Responsive Sizing */
+@media (max-width: 768px) {
+  #ransomizer-ggn6ycg0 {
+    --global-font-size: 40px;
+  }
+}
+
+/* Hover Effect for Individual Letters */
+.tc {
+  transition: transform 0.2s ease;
+}
+
+.tc:hover {
+  transform: scale(1.1) translateY(-3px);
+  z-index: 10;
+  position: relative;
+}
+
+.texturizer-content {
+  opacity: 0;
+  animation: fadeInRansomizer 1s ease-in-out 1s forwards;
+}
+
+@keyframes fadeInRansomizer {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
