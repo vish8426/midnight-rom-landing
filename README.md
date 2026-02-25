@@ -79,6 +79,7 @@ Ransom-style "MIDNIGHT ROM" text with:
 - Hover effects
 - Fade-in animation
 - Custom fonts from Google Fonts
+- Animated background
 
 ## 🔗 Links
 
